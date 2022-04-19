@@ -12,7 +12,7 @@ Makes a rectangle class and a surface class and tests them
 ## GRACE DAYS
 Grace days used for this assignment: 0
 
-Grace days remaining: <5/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
 None
